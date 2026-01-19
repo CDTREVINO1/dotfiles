@@ -14,7 +14,8 @@ PROMPT='
 
 
 # Add locations to $PATH Variable
-
+# Add Visual Studio Code (code)
+export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
 
 # Write Handy Functions
 function mkcd() {
@@ -25,3 +26,4 @@ function mkcd() {
 
 
 # ... and Other Surprises
+export PATH="/opt/homebrew/bin:$PATH"
