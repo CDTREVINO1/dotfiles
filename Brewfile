@@ -14,6 +14,8 @@ brew "bat"
 brew "btop"
 # Console Matrix
 brew "cmatrix"
+# Modern, maintained replacement for ls
+brew "eza"
 # Open-source framework for augmenting humans using AI
 brew "fabric-ai"
 # Like neofetch, but much faster because written mostly in C
@@ -22,6 +24,8 @@ brew "fastfetch"
 brew "ffmpeg"
 # GitHub command-line tool
 brew "gh"
+# Mac App Store command-line interface
+brew "mas"
 # Open-source, cross-platform JavaScript runtime environment
 brew "node"
 # NCurses Disk Usage
@@ -32,8 +36,6 @@ brew "neovim"
 brew "nvm"
 # Create, run, and share large language models (LLMs)
 brew "ollama", restart_service: :changed
-# Command-line interface for https://speedtest.net bandwidth tests
-brew "speedtest-cli"
 # Simplified and community-driven man pages
 brew "tldr"
 # Terminal multiplexer
@@ -81,8 +83,6 @@ cask "handbrake-app"
 cask "inkscape"
 # Terminal emulator as alternative to Apple's Terminal app
 cask "iterm2"
-# Interface for reading and syncing eBooks
-cask "kindle"
 # Email client
 cask "microsoft-outlook"
 # Sandbox construction video game
@@ -121,6 +121,15 @@ cask "webex"
 cask "windows-app"
 # Network protocol analyzer
 cask "wireshark-app"
+mas "Discovery", id: 1381004916
+mas "Flow", id: 1423210932
+mas "HP", id: 1474276998
+mas "iMovie", id: 408981434
+mas "Kindle", id: 302584613
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "uBlock Origin Lite", id: 6745342698
+mas "WireGuard", id: 1451685025
 vscode "bradlc.vscode-tailwindcss"
 vscode "codezombiech.gitignore"
 vscode "continue.continue"
