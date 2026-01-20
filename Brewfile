@@ -1,3 +1,4 @@
+tap "eth-p/software"
 tap "homebrew/cask"
 tap "homebrew/core"
 tap "mongodb/brew"
@@ -48,6 +49,8 @@ brew "trufflehog"
 brew "wget"
 # Feature-rich command-line audio/video downloader
 brew "yt-dlp"
+# Bash scripts that integrate bat with various command-line tools
+brew "eth-p/software/bat-extras"
 # High-performance, schema-free, document-oriented database
 brew "mongodb/brew/mongodb-community"
 # Stripe CLI utility
