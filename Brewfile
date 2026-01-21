@@ -49,6 +49,8 @@ brew "trufflehog"
 brew "wget"
 # Feature-rich command-line audio/video downloader
 brew "yt-dlp"
+# UNIX shell (command interpreter)
+brew "zsh"
 # Bash scripts that integrate bat with various command-line tools
 brew "eth-p/software/bat-extras"
 # High-performance, schema-free, document-oriented database
