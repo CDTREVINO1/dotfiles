@@ -104,6 +104,8 @@ cask "openscad"
 cask "postman"
 # Imaging utility to install operating systems to a microSD card
 cask "raspberry-pi-imager"
+# Move and resize windows using keyboard shortcuts or snap areas
+cask "rectangle"
 # Instant messaging application focusing on security
 cask "signal"
 # Team communication and collaboration software
