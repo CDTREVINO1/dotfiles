@@ -5,8 +5,6 @@ tap "mongodb/brew"
 tap "stripe/stripe-cli"
 # Run your GitHub Actions locally
 brew "act"
-# Image format providing lossless and lossy compression for web images
-brew "webp"
 # Aquarium animation in ASCII art
 brew "asciiquarium"
 # Clone of cat(1) with syntax highlighting and Git integration
@@ -47,6 +45,8 @@ brew "tmux"
 brew "tree"
 # Find and verify credentials
 brew "trufflehog"
+# Image format providing lossless and lossy compression for web images
+brew "webp"
 # Internet file retriever
 brew "wget"
 # Feature-rich command-line audio/video downloader
