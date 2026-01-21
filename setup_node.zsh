@@ -12,3 +12,11 @@ else
   echo "Installing node & NPM with n..."
   n latest
 fi
+
+# Install Global NPM Packages
+npm install --global typescript
+npm install --global json-server
+npm install --global http-server
+
+echo "Global NPM packages installed:"
+npm list --global --depth=0

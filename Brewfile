@@ -37,8 +37,6 @@ brew "n"
 brew "ncdu"
 # Ambitious Vim-fork focused on extensibility and agility
 brew "neovim"
-# Manage multiple Node.js versions
-brew "nvm"
 # Create, run, and share large language models (LLMs)
 brew "ollama", restart_service: :changed
 # Simplified and community-driven man pages
