@@ -25,10 +25,14 @@ brew "fastfetch"
 brew "ffmpeg"
 # GitHub command-line tool
 brew "gh"
+# GNU typing tutor
+brew "gnu-typist"
 # Mac App Store command-line interface
 brew "mas"
 # Open-source, cross-platform JavaScript runtime environment
 brew "node"
+# Node version management
+brew "n"
 # NCurses Disk Usage
 brew "ncdu"
 # Ambitious Vim-fork focused on extensibility and agility
