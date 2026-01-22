@@ -90,12 +90,18 @@ cask "handbrake-app"
 cask "inkscape"
 # Terminal emulator as alternative to Apple's Terminal app
 cask "iterm2"
+# Video format converter (transcoder)
+cask "makemkv"
+# Multi-platform web browser
+cask "microsoft-edge"
 # Email client
 cask "microsoft-outlook"
 # Sandbox construction video game
 cask "minecraft"
 # Minimal installer for conda specific to conda-forge
 cask "miniforge"
+# Control your Nanoleaf lights
+cask "nanoleaf"
 # Free and open-source RSS reader
 cask "netnewswire"
 # Knowledge base that works on top of a local folder of plain text Markdown files
