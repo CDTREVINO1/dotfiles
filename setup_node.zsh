@@ -3,7 +3,7 @@
 echo "\n<<< Starting Node Setup >>>\n"
 
 # Node versions are managed with `n`, which is in the Brewfile.
-# See zshrc for N_PREFIX variable and addition to PATH.
+# See zshrc for N_PREFIX variable and addition to $path array.
 
 #echo 'Enter superuser (sudo) password to edit /etc/shells'
 if exists node; then
